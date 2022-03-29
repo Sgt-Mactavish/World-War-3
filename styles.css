@@ -1,0 +1,204 @@
+
+
+  body {
+  
+    background-color: lavenderblush;
+  }
+
+
+  hr {
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0;
+    width: 10%;
+  }
+.country {
+font-family: 'M PLUS 1 Code', sans-serif;
+}
+h1{
+  font-family: 'Ubuntu Mono', monospace;
+
+}
+
+.title-sec{
+  background-color: #A267AC;
+}
+.f-part{
+  margin: auto 0 auto 0;
+  padding:10px 0 10px 0;
+}
+.img-war{
+  position:inherit;
+  padding: 10px;
+}
+.Intro-war{
+  margin: auto 10px auto 0;
+}
+a{
+  font-size: 2rem;
+}
+
+/*the country name*/
+.details{
+  margin: auto 0 auto 10px;
+}
+.albania{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+
+.belgium{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.bulgaria{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.croatia{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.czechia{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.canada{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.denmark{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.estonia{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.france{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.germany{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.greece{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.hungary{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.iceland{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.italy{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.latvia{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.luxembourg{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.lithuania{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.montenegro{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.north-macedonia{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.netherland{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.norway{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.portugal{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.poland{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.romania{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.spain{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.slovenia{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.slovakia{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.turkey{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.uk{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+.usa{
+  margin: 10px 10px 10px 10px;
+  height: 80px;
+  width: 120px;
+}
+h2{
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: sans-serif solid;
+  color: black;
+}
