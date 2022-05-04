@@ -1,202 +1,233 @@
+body {
+  background-color: lavenderblush;
+}
 
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 0;
+  width: 10%;
+}
 
-  body {
-  
-    background-color: lavenderblush;
-  }
-
-
-  hr {
-    background-color: white;
-    border-style: none;
-    border-top-style: dotted;
-    border-color: grey;
-    border-width: 5px;
-    height: 0;
-    width: 10%;
-  }
 .country {
-font-family: 'M PLUS 1 Code', sans-serif;
+  font-family: 'M PLUS 1 Code', sans-serif;
 }
-h1{
+
+h1 {
   font-family: 'Ubuntu Mono', monospace;
-
 }
 
-.title-sec{
+.title-sec {
   background-color: #A267AC;
 }
-.f-part{
+
+.f-part {
   margin: auto 0 auto 0;
-  padding:10px 0 10px 0;
+  padding: 10px 0 10px 0;
 }
-.img-war{
-  position:inherit;
+
+.img-war {
+  position: inherit;
   padding: 10px;
 }
-.Intro-war{
+
+.Intro-war {
   margin: auto 10px auto 0;
 }
-a{
+
+a {
   font-size: 2rem;
 }
 
 /*the country name*/
-.details{
+.details {
   margin: auto 0 auto 10px;
 }
-.albania{
+
+.albania {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
 
-.belgium{
+.belgium {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.bulgaria{
+
+.bulgaria {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.croatia{
+
+.croatia {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.czechia{
+
+.czechia {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.canada{
+
+.canada {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.denmark{
+
+.denmark {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.estonia{
+
+.estonia {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.france{
+
+.france {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.germany{
+
+.germany {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.greece{
+
+.greece {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.hungary{
+
+.hungary {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.iceland{
+
+.iceland {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.italy{
+
+.italy {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.latvia{
+
+.latvia {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.luxembourg{
+
+.luxembourg {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.lithuania{
+
+.lithuania {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.montenegro{
+
+.montenegro {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.north-macedonia{
+
+.north-macedonia {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.netherland{
+
+.netherland {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.norway{
+
+.norway {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.portugal{
+
+.portugal {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.poland{
+
+.poland {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.romania{
+
+.romania {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.spain{
+
+.spain {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.slovenia{
+
+.slovenia {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.slovakia{
+
+.slovakia {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.turkey{
+
+.turkey {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.uk{
+
+.uk {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-.usa{
+
+.usa {
   margin: 10px 10px 10px 10px;
   height: 80px;
   width: 120px;
 }
-h2{
+
+.contactme {
   font-size: 6rem;
   font-weight: bold;
   font-family: sans-serif solid;
